@@ -10,12 +10,12 @@
 
 ---
 
-```bash
 ┌──(tharindi㉿github)-[~/profile]
-└─$ whoami
-Cybersecurity undergraduate from Sri Lanka
-Learning secure development, backend systems, networking, Linux and databases
-```
+└─$ cat identity.txt
+Role        : Cybersecurity Undergraduate
+Location    : Sri Lanka
+Learning    : SOC Monitoring | Linux | Networking | Secure Development | Databases
+Focus       : Blue Team fundamentals, practical labs and security-focused projects
 
 ---
 
