@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:38bdf8&height=210&section=header&text=Tharindi%20Weerasinghe&fontColor=eef7ff&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%7C%20Linux%20%7C%20Networking%20%7C%20SOC%20Labs%20%7C%20Secure%20Development&descColor=cbd5e1&descSize=17&descAlignY=56" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:0369a1&height=200&section=header&text=Tharindi%20Weerasinghe&fontColor=eef7ff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%7C%20Linux%20%7C%20Networking%20%7C%20SOC%20Labs%20%7C%20Secure%20Development&descColor=cbd5e1&descSize=17&descAlignY=58" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate+from+Sri+Lanka;Learning+Linux%2C+Networking+and+Security+Fundamentals;Building+practical+cybersecurity+projects+and+labs;Improving+through+hands-on+practice+and+documentation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cybersecurity+Undergraduate+from+Sri+Lanka;Learning+Linux%2C+Networking+and+Security+Fundamentals;Building+practical+cybersecurity+projects+and+labs;Improving+one+project+at+a+time" />
 
 </div>
 
@@ -12,89 +12,21 @@
 
 ```bash
 ┌──(tharindi㉿github)-[~/profile]
-└─$ cat identity.txt
+└─$ cat about.txt
 
-Name        : Tharindi Weerasinghe
-Role        : Cybersecurity Undergraduate
-Location    : Sri Lanka
-Focus       : Linux | Networking | SOC Labs | Secure Development
-Mindset     : Learn deeply, build practically, document clearly
+Role      : Cybersecurity Undergraduate
+Location  : Sri Lanka
+Focus     : Linux | Networking | SOC Labs | Secure Development
+Mindset   : Learn deeply, build practically, document clearly
 ```
 
 ---
 
-## SYSTEM PROFILE
+## ABOUT ME
 
-```yaml
-name: Tharindi Weerasinghe
-role: Cybersecurity Undergraduate
-location: Sri Lanka
-status: Learning | Building | Improving
+I am a cybersecurity undergraduate learning through practical projects, labs, debugging, and documentation.
 
-main_focus:
-  - Cybersecurity fundamentals
-  - Linux and command-line practice
-  - Networking concepts
-  - Secure web development
-  - SOC monitoring basics
-  - Log analysis and alert investigation
-  - Python for security projects
-  - Technical documentation
-
-project_experience:
-  - SSH brute force detection lab with Splunk
-  - SOC monitoring lab with Wazuh and Suricata
-  - AI resume privacy and security analyzer
-  - Credit card fraud detection dashboard
-  - Packet sniffer and traffic analyzer
-  - Network scanner
-  - Password strength checker
-  - Event ticket booking web application
-
-current_mindset:
-  - Build practical projects
-  - Understand how systems work
-  - Learn from logs, errors and debugging
-  - Improve secure coding habits
-  - Strengthen technical communication
-```
-
----
-
-## CURRENT OPERATIONS
-
-<table>
-<tr>
-<td width="50%">
-
-### Cybersecurity Practice
-
-```text
-> Linux system practice
-> Network scanning and packet analysis
-> SSH log analysis
-> SOC monitoring basics
-> Alert investigation practice
-> Secure coding fundamentals
-```
-
-</td>
-<td width="50%">
-
-### Development Practice
-
-```text
-> Python security tools
-> Flask applications
-> Java and Spring Boot
-> MySQL database projects
-> Web application development
-> GitHub documentation
-```
-
-</td>
-</tr>
-</table>
+My current focus is building a strong foundation in Linux, networking, secure development, SOC basics, log analysis, and cybersecurity fundamentals.
 
 ---
 
@@ -115,143 +47,50 @@ current_mindset:
 <img src="https://img.shields.io/badge/Networking-020617?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/SOC%20Labs-0f172a?style=for-the-badge&logo=splunk&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Secure%20Development-020617?style=for-the-badge&logo=owasp&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Databases-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8" />
 
 </div>
 
 ---
 
-## CYBERSECURITY LEARNING PATH
+## CYBERSECURITY PATH
 
 ```text
-[01] Computer and IT fundamentals
-     └─ Operating systems, files, processes, users and permissions
-
-[02] Linux fundamentals
-     └─ Commands, directories, permissions, services and system logs
-
-[03] Networking fundamentals
-     └─ IP addresses, ports, protocols, DNS, HTTP, TCP and UDP
-
-[04] Programming and scripting
-     └─ Python basics, automation, file handling and security utilities
-
-[05] Web and application basics
-     └─ HTML, CSS, JavaScript, backend systems, APIs and databases
-
-[06] Security fundamentals
-     └─ Authentication, authorization, encryption, hashing and common attacks
-
-[07] Web application security
-     └─ OWASP basics, input validation, access control and secure coding
-
-[08] SOC and log analysis
-     └─ Linux logs, SIEM basics, alerts, dashboards and investigation
-
-[09] Network security practice
-     └─ Scanning, packet analysis, IDS alerts and traffic behavior
-
-[10] Continuous cybersecurity growth
-     └─ Build labs, study attacks, understand defenses and document findings
+[01] Computer and operating system basics
+[02] Linux commands, permissions and logs
+[03] Networking, ports, protocols and traffic
+[04] Web security and secure coding basics
+[05] SOC monitoring, SIEM and alert investigation
+[06] Practical cybersecurity labs and documentation
 ```
 
 ---
 
-## FEATURED PROJECT MAP
+## PROJECTS
 
 ```text
-[01] SSH Brute Force Detection Lab with Splunk
-     └─ SOC detection lab using Linux auth logs, SPL queries, alerts and dashboarding
-
-[02] SentinelLab: Wazuh and Suricata SOC Lab
-     └─ Blue team monitoring lab with Wazuh, Suricata, Ubuntu and Kali Linux
-
-[03] AI Resume Security Analyzer
-     └─ Flask tool for privacy risk, PII exposure and suspicious URL analysis
-
-[04] Credit Card Fraud Detection
-     └─ Machine learning dashboard for identifying suspicious transaction patterns
-
-[05] Packet Sniffer
-     └─ Python packet analysis project for learning network traffic behavior
-
-[06] Network Scanner
-     └─ Local network discovery and port scanning for authorized environments
-
-[07] Password Strength Checker
-     └─ Basic security tool for password strength analysis and suggestions
-
-[08] NexMeet Event Ticket Booking
-     └─ Spring Boot and MySQL web application with booking functionality
+> SSH Brute Force Detection Lab with Splunk
+> SentinelLab: Wazuh and Suricata SOC Lab
+> Resume Privacy and Security Analyzer
+> Credit Card Fraud Detection Dashboard
+> Packet Sniffer and Traffic Analyzer
+> Network Scanner
+> Password Strength Checker
+> NexMeet Event Ticket Booking System
 ```
 
 ---
 
-## AREAS I AM BUILDING
+## GITHUB STREAK
 
-<table>
-<tr>
-<td width="33%">
+<div align="center">
 
-### Security Basics
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharindi-Weerasinghe&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=eef7ff&sideNums=eef7ff" />
 
-```text
-Linux
-Networking
-Web security
-Secure coding
-Log analysis
-```
-
-</td>
-<td width="33%">
-
-### Blue Team Practice
-
-```text
-SOC labs
-SIEM basics
-Alert review
-SSH logs
-IDS alerts
-```
-
-</td>
-<td width="33%">
-
-### Development Skills
-
-```text
-Python
-Java
-Spring Boot
-Flask
-MySQL
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## GITHUB ACTIVITY
-
-```text
-I use GitHub to document my learning, organize my projects,
-track my progress, and build a cybersecurity-focused portfolio.
-
-Current focus:
-> improving project documentation
-> building practical security labs
-> writing cleaner README files
-> understanding security concepts deeply
-> explaining what each project does clearly
-```
-
----
-
-## CURRENT COMMAND
+## CURRENT FOCUS
 
 ```bash
 ┌──(tharindi㉿github)-[~/growth]
@@ -259,10 +98,9 @@ Current focus:
 
 [*] Strengthening cybersecurity fundamentals
 [*] Practicing Linux and networking
-[*] Building SOC and security lab projects
+[*] Building security labs and projects
 [*] Improving secure development skills
-[*] Learning from logs, errors and debugging
-[*] Documenting projects clearly
+[*] Documenting what I learn clearly
 [+] Status: Still learning, still building, still improving
 ```
 
@@ -298,6 +136,6 @@ Current focus:
 Learning in public. Building with purpose. Improving one project at a time.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:0369a1,70:0f172a,100:020617&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,45:0f172a,100:020617&height=100&section=footer" />
 
 </div>
