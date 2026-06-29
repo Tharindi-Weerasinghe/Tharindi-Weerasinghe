@@ -124,35 +124,35 @@ current_mindset:
 ## CYBERSECURITY LEARNING PATH
 
 ```text
-[01] IT and computer fundamentals
+[01] Computer and IT fundamentals
      └─ Operating systems, files, processes, users and permissions
 
 [02] Linux fundamentals
-     └─ Commands, directories, permissions, services and logs
+     └─ Commands, directories, permissions, services and system logs
 
 [03] Networking fundamentals
      └─ IP addresses, ports, protocols, DNS, HTTP, TCP and UDP
 
-[04] Web and application basics
+[04] Programming and scripting
+     └─ Python basics, automation, file handling and security utilities
+
+[05] Web and application basics
      └─ HTML, CSS, JavaScript, backend systems, APIs and databases
 
-[05] Security fundamentals
+[06] Security fundamentals
      └─ Authentication, authorization, encryption, hashing and common attacks
 
-[06] Web application security
+[07] Web application security
      └─ OWASP basics, input validation, access control and secure coding
 
-[07] SOC and log analysis
+[08] SOC and log analysis
      └─ Linux logs, SIEM basics, alerts, dashboards and investigation
 
-[08] Network security practice
+[09] Network security practice
      └─ Scanning, packet analysis, IDS alerts and traffic behavior
 
-[09] Practical cybersecurity projects
-     └─ Build labs, document steps, explain findings and improve project quality
-
-[10] Internship preparation
-     └─ Resume, GitHub portfolio, LinkedIn, interview practice and communication
+[10] Continuous cybersecurity growth
+     └─ Build labs, study attacks, understand defenses and document findings
 ```
 
 ---
@@ -245,8 +245,8 @@ Current focus:
 > improving project documentation
 > building practical security labs
 > writing cleaner README files
+> understanding security concepts deeply
 > explaining what each project does clearly
-> preparing for internship opportunities
 ```
 
 ---
@@ -255,14 +255,14 @@ Current focus:
 
 ```bash
 ┌──(tharindi㉿github)-[~/growth]
-└─$ ./build_future.sh
+└─$ ./cyber_growth.sh
 
 [*] Strengthening cybersecurity fundamentals
 [*] Practicing Linux and networking
 [*] Building SOC and security lab projects
 [*] Improving secure development skills
-[*] Writing better documentation
-[*] Preparing for internship opportunities
+[*] Learning from logs, errors and debugging
+[*] Documenting projects clearly
 [+] Status: Still learning, still building, still improving
 ```
 
