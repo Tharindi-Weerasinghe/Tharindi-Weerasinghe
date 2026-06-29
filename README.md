@@ -1,52 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:061b2e,70:0369a1,100:00eaff&height=210&section=header&text=Tharindi%20Weerasinghe&fontColor=eef7ff&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%7C%20SOC%20Labs%20%7C%20Linux%20%7C%20Python%20%7C%20AI%20Security&descColor=9defff&descSize=17&descAlignY=56" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:0369a1,100:38bdf8&height=210&section=header&text=Tharindi%20Weerasinghe&fontColor=eef7ff&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%7C%20Linux%20%7C%20Networking%20%7C%20SOC%20Labs%20%7C%20Secure%20Development&descColor=cbd5e1&descSize=17&descAlignY=56" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2400&pause=900&color=00EAFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate+from+Sri+Lanka;Building+SOC+labs+and+security-focused+projects;Learning+Linux%2C+Networking%2C+Python+and+Secure+Development;Improving+through+hands-on+practice+and+documentation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate+from+Sri+Lanka;Learning+Linux%2C+Networking+and+Security+Fundamentals;Building+practical+cybersecurity+projects+and+labs;Improving+through+hands-on+practice+and+documentation" />
 
 </div>
 
 <br>
 
 ```bash
-┌──(tharindi㉿github)-[~/cyber-profile]
+┌──(tharindi㉿github)-[~/profile]
 └─$ cat identity.txt
 
 Name        : Tharindi Weerasinghe
 Role        : Cybersecurity Undergraduate
 Location    : Sri Lanka
-Focus       : SOC Monitoring | Linux | Python | Secure Development | AI Security
+Focus       : Linux | Networking | SOC Labs | Secure Development
 Mindset     : Learn deeply, build practically, document clearly
 ```
 
 ---
 
-## ACCESS PROFILE
+## SYSTEM PROFILE
 
 ```yaml
-profile:
-  name: Tharindi Weerasinghe
-  role: Cybersecurity Undergraduate
-  location: Sri Lanka
-  status: Learning | Building | Improving
+name: Tharindi Weerasinghe
+role: Cybersecurity Undergraduate
+location: Sri Lanka
+status: Learning | Building | Improving
 
-current_focus:
-  - SOC monitoring and alert investigation
-  - Linux security labs and log analysis
-  - Python security tools and automation
-  - Network traffic analysis
-  - Secure web application development
-  - AI-powered security projects
-  - Documentation and technical communication
+main_focus:
+  - Cybersecurity fundamentals
+  - Linux and command-line practice
+  - Networking concepts
+  - Secure web development
+  - SOC monitoring basics
+  - Log analysis and alert investigation
+  - Python for security projects
+  - Technical documentation
 
-learning_style:
+project_experience:
+  - SSH brute force detection lab with Splunk
+  - SOC monitoring lab with Wazuh and Suricata
+  - AI resume privacy and security analyzer
+  - Credit card fraud detection dashboard
+  - Packet sniffer and traffic analyzer
+  - Network scanner
+  - Password strength checker
+  - Event ticket booking web application
+
+current_mindset:
   - Build practical projects
-  - Break problems into simple steps
-  - Learn from errors and debugging
-  - Document what I understand
-  - Improve consistently
+  - Understand how systems work
+  - Learn from logs, errors and debugging
+  - Improve secure coding habits
+  - Strengthen technical communication
 ```
 
 ---
@@ -57,27 +67,29 @@ learning_style:
 <tr>
 <td width="50%">
 
-### Security Labs
+### Cybersecurity Practice
 
 ```text
-> SSH brute force detection with Splunk
-> Wazuh and Suricata SOC monitoring lab
-> Linux authentication log analysis
-> Network scanning and packet inspection
-> Security alert investigation practice
+> Linux system practice
+> Network scanning and packet analysis
+> SSH log analysis
+> SOC monitoring basics
+> Alert investigation practice
+> Secure coding fundamentals
 ```
 
 </td>
 <td width="50%">
 
-### Development Projects
+### Development Practice
 
 ```text
-> AI resume security analyzer
-> Credit card fraud detection dashboard
-> Event ticket booking web application
-> Python security utilities
-> Database-backed web applications
+> Python security tools
+> Flask applications
+> Java and Spring Boot
+> MySQL database projects
+> Web application development
+> GitHub documentation
 ```
 
 </td>
@@ -98,14 +110,50 @@ learning_style:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-020617?style=for-the-badge&logo=hackthebox&logoColor=00eaff" />
-<img src="https://img.shields.io/badge/SOC%20Monitoring-061b2e?style=for-the-badge&logo=splunk&logoColor=00eaff" />
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=2fffad" />
-<img src="https://img.shields.io/badge/Networking-061b2e?style=for-the-badge&logo=cisco&logoColor=00eaff" />
-<img src="https://img.shields.io/badge/Secure%20Development-020617?style=for-the-badge&logo=owasp&logoColor=2fffad" />
-<img src="https://img.shields.io/badge/AI%20Security-061b2e?style=for-the-badge&logo=openai&logoColor=00eaff" />
+<img src="https://img.shields.io/badge/Cybersecurity-020617?style=for-the-badge&logo=hackthebox&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Networking-020617?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/SOC%20Labs-0f172a?style=for-the-badge&logo=splunk&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Secure%20Development-020617?style=for-the-badge&logo=owasp&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Databases-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8" />
 
 </div>
+
+---
+
+## CYBERSECURITY LEARNING PATH
+
+```text
+[01] IT and computer fundamentals
+     └─ Operating systems, files, processes, users and permissions
+
+[02] Linux fundamentals
+     └─ Commands, directories, permissions, services and logs
+
+[03] Networking fundamentals
+     └─ IP addresses, ports, protocols, DNS, HTTP, TCP and UDP
+
+[04] Web and application basics
+     └─ HTML, CSS, JavaScript, backend systems, APIs and databases
+
+[05] Security fundamentals
+     └─ Authentication, authorization, encryption, hashing and common attacks
+
+[06] Web application security
+     └─ OWASP basics, input validation, access control and secure coding
+
+[07] SOC and log analysis
+     └─ Linux logs, SIEM basics, alerts, dashboards and investigation
+
+[08] Network security practice
+     └─ Scanning, packet analysis, IDS alerts and traffic behavior
+
+[09] Practical cybersecurity projects
+     └─ Build labs, document steps, explain findings and improve project quality
+
+[10] Internship preparation
+     └─ Resume, GitHub portfolio, LinkedIn, interview practice and communication
+```
 
 ---
 
@@ -122,7 +170,7 @@ learning_style:
      └─ Flask tool for privacy risk, PII exposure and suspicious URL analysis
 
 [04] Credit Card Fraud Detection
-     └─ Machine learning dashboard for detecting suspicious transaction patterns
+     └─ Machine learning dashboard for identifying suspicious transaction patterns
 
 [05] Packet Sniffer
      └─ Python packet analysis project for learning network traffic behavior
@@ -139,61 +187,46 @@ learning_style:
 
 ---
 
-## LEARNING PATH
-
-```mermaid
-flowchart LR
-    A[Cybersecurity Fundamentals] --> B[Linux Practice]
-    B --> C[Networking]
-    C --> D[Log Analysis]
-    D --> E[SOC Monitoring]
-    E --> F[Detection Projects]
-    F --> G[Secure Development]
-    G --> H[AI Security Projects]
-```
-
----
-
 ## AREAS I AM BUILDING
 
 <table>
 <tr>
 <td width="33%">
 
-### Blue Team
-
-```text
-SOC monitoring
-Log analysis
-Alert review
-SIEM basics
-Threat detection
-```
-
-</td>
-<td width="33%">
-
-### Security Engineering
-
-```text
-Python tools
-Secure coding
-OWASP basics
-Automation
-Documentation
-```
-
-</td>
-<td width="33%">
-
-### Systems
+### Security Basics
 
 ```text
 Linux
 Networking
-MySQL
+Web security
+Secure coding
+Log analysis
+```
+
+</td>
+<td width="33%">
+
+### Blue Team Practice
+
+```text
+SOC labs
+SIEM basics
+Alert review
+SSH logs
+IDS alerts
+```
+
+</td>
+<td width="33%">
+
+### Development Skills
+
+```text
+Python
+Java
 Spring Boot
 Flask
+MySQL
 ```
 
 </td>
@@ -202,23 +235,19 @@ Flask
 
 ---
 
-## GITHUB SIGNALS
+## GITHUB ACTIVITY
 
-<div align="center">
+```text
+I use GitHub to document my learning, organize my projects,
+track my progress, and build a cybersecurity-focused portfolio.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tharindi-Weerasinghe&show_icons=true&theme=transparent&hide_border=true&title_color=00eaff&text_color=cbd5e1&icon_color=2fffad" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindi-Weerasinghe&layout=compact&theme=transparent&hide_border=true&title_color=00eaff&text_color=cbd5e1" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharindi-Weerasinghe&theme=transparent&hide_border=true&ring=00eaff&fire=2fffad&currStreakLabel=00eaff&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=eef7ff&sideNums=eef7ff" />
-
-</div>
+Current focus:
+> improving project documentation
+> building practical security labs
+> writing cleaner README files
+> explaining what each project does clearly
+> preparing for internship opportunities
+```
 
 ---
 
@@ -229,8 +258,9 @@ Flask
 └─$ ./build_future.sh
 
 [*] Strengthening cybersecurity fundamentals
-[*] Building practical labs and projects
-[*] Improving Linux, networking and secure coding
+[*] Practicing Linux and networking
+[*] Building SOC and security lab projects
+[*] Improving secure development skills
 [*] Writing better documentation
 [*] Preparing for internship opportunities
 [+] Status: Still learning, still building, still improving
@@ -243,19 +273,19 @@ Flask
 <div align="center">
 
 <a href="https://tharindi-weerasinghe.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
 </a>
 
 <a href="https://github.com/Tharindi-Weerasinghe">
-  <img src="https://img.shields.io/badge/GitHub-061b2e?style=for-the-badge&logo=github&logoColor=eef7ff" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=eef7ff" />
 </a>
 
 <a href="https://www.linkedin.com/in/tharindi-weerasinghe-0b543a2b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 
 <a href="mailto:tharindimaleesha0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-061b2e?style=for-the-badge&logo=gmail&logoColor=2fffad" />
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
 
 </div>
@@ -268,6 +298,6 @@ Flask
 Learning in public. Building with purpose. Improving one project at a time.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,35:0369a1,70:061b2e,100:020617&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:0369a1,70:0f172a,100:020617&height=120&section=footer" />
 
 </div>
