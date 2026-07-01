@@ -13,7 +13,7 @@
 └─$ cat about.txt
 ```
 
-> I'm a Year 2 IT undergraduate at SLIIT, specializing in Cybersecurity.
+> I'm a Year 3 IT undergraduate at SLIIT, specializing in Cybersecurity.
 > I'm early in the journey — no illusions about that — but I learn by
 > building: labs, detections, and small tools that force me to understand
 > a concept instead of just reading about it. Every project below is a
