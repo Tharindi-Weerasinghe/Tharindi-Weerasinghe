@@ -1,137 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=190&section=header&text=Tharindi%20Weerasinghe&fontColor=eef7ff&fontSize=44&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Undergraduate%20%7C%20Linux%20%7C%20Networking%20%7C%20SOC%20Labs%20%7C%20Secure%20Development&descColor=cbd5e1&descSize=16&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1b0d&height=180&section=header&text=THARINDI%20WEERASINGHE&fontColor=39ff14&fontSize=38&fontAlign=50&fontAlignY=45&desc=root%40cybersec%3A~%24%20whoami&descColor=39ff14&descSize=18&descAlignY=68" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Learning+Linux%2C+Networking+and+Security;Building+practical+projects+and+labs;Improving+through+practice+and+documentation" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Tharindi-Weerasinghe&label=Profile%20Views&color=0369a1&style=flat-square" />
-
-</div>
-
----
-
-## About
-
-I am a cybersecurity undergraduate from Sri Lanka, focused on building a strong foundation in security, systems, networking, and secure development.
-
-I use projects and labs to understand how systems work, how attacks leave traces, and how defenders investigate suspicious activity.
-
----
-
-## Current Focus
-
-```text
-Linux fundamentals
-Networking concepts
-Web application security
-Secure development
-SOC monitoring basics
-Log analysis
-Python for security projects
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,spring,mysql,html,css,js,linux,git,github,vscode" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=780&lines=%3E+access_granted...;%3E+role%3A+cybersecurity+undergraduate;%3E+status%3A+learning+in+public%2C+one+lab+at+a+time;%3E+mission%3A+understand+how+systems+break+and+how+to+defend+them" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Networking-0f172a?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/SOC%20Labs-0f172a?style=for-the-badge&logo=splunk&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Secure%20Development-0f172a?style=for-the-badge&logo=owasp&logoColor=38bdf8" />
-
-</div>
-
----
-
-## Projects
-
-| Project                                   | Focus                                                |
-| ----------------------------------------- | ---------------------------------------------------- |
-| SSH Brute Force Detection Lab with Splunk | SOC detection, Linux logs, SPL, alerting             |
-| SentinelLab: Wazuh and Suricata SOC Lab   | SIEM, IDS, alert investigation                       |
-| Resume Privacy and Security Analyzer      | Privacy risk, PII detection, suspicious URL analysis |
-| Credit Card Fraud Detection Dashboard     | Machine learning, fraud analytics                    |
-| Packet Sniffer and Traffic Analyzer       | Packet capture, protocol analysis                    |
-| Network Scanner                           | Host discovery, port scanning                        |
-| Password Strength Checker                 | Password security basics                             |
-| NexMeet Event Ticket Booking System       | Spring Boot, MySQL, web development                  |
-
----
-
-## Cybersecurity Path
-
-```text
-01. Computer and operating system basics
-02. Linux commands, permissions and logs
-03. Networking, ports, protocols and traffic
-04. Web security and secure coding basics
-05. SOC monitoring, SIEM and alert investigation
-06. Practical cybersecurity labs and documentation
+```bash
+┌──(tharindi@sliit)-[~/security]
+└─$ cat about.txt
 ```
 
----
+> I'm a Year 2 IT undergraduate at SLIIT, specializing in Cybersecurity.
+> I'm early in the journey — no illusions about that — but I learn by
+> building: labs, detections, and small tools that force me to understand
+> a concept instead of just reading about it. Every project below is a
+> step, not a finished résumé.
 
-## GitHub Streak
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharindi-Weerasinghe&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## Activity Graph
+## `[ scan --skills ]`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharindi-Weerasinghe&theme=github-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=eef7ff" />
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Core**
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+
+**Security & Systems**
+<img src="https://skillicons.dev/icons?i=linux,wireshark,bash&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**Web / Backend**
+<img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/SIEM-Wazuh%20%7C%20Splunk-0d1b0d?style=for-the-badge&logo=splunk&logoColor=39ff14&labelColor=000000" />
+<img src="https://img.shields.io/badge/IDS-Suricata-0d1b0d?style=for-the-badge&logo=shieldsdotio&logoColor=39ff14&labelColor=000000" />
+<img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20Ports-0d1b0d?style=for-the-badge&logo=cisco&logoColor=39ff14&labelColor=000000" />
 
 </div>
 
----
+<br>
 
-## Connect
+## `[ ls --projects/ ]`
+
+<div align="center">
+
+<table>
+<tr>
+<th>Project</th>
+<th>What it actually does</th>
+<th>What I learned</th>
+</tr>
+<tr>
+<td><b>SSH Brute Force Detection Lab</b></td>
+<td>Splunk + Linux auth logs, SPL queries, alerting on failed-login patterns</td>
+<td>Log parsing, detection logic, why noisy alerts are a real problem</td>
+</tr>
+<tr>
+<td><b>SentinelLab (Wazuh + Suricata)</b></td>
+<td>Mini SOC setup — SIEM correlation + network IDS working together</td>
+<td>How alerts move from raw traffic to something a human can triage</td>
+</tr>
+<tr>
+<td><b>Resume Privacy & Security Analyzer</b></td>
+<td>Flags PII exposure and suspicious links in uploaded resumes/CVs</td>
+<td>Practical data-privacy risks people overlook in everyday documents</td>
+</tr>
+<tr>
+<td><b>Credit Card Fraud Detection</b></td>
+<td>Flask dashboard + scikit-learn model flagging anomalous transactions</td>
+<td>Where ML actually helps in security, and where it just adds noise</td>
+</tr>
+<tr>
+<td><b>Packet Sniffer & Traffic Analyzer</b></td>
+<td>Captures and breaks down live traffic by protocol</td>
+<td>What's actually happening below the "connected" icon</td>
+</tr>
+<tr>
+<td><b>Network Scanner</b></td>
+<td>Host discovery + port scanning basics</td>
+<td>Reconnaissance from the attacker's side, so I can defend against it</td>
+</tr>
+<tr>
+<td><b>NexMeet — Event Ticket Booking</b></td>
+<td>Full-stack app: Spring Boot, MySQL, Thymeleaf</td>
+<td>Building the thing I'd eventually want to secure — auth, data, deployment</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## `[ tail -f roadmap.log ]`
+
+```text
+[DONE]        Linux fundamentals & permissions
+[DONE]        Networking basics — TCP/UDP, ports, protocols
+[IN PROGRESS] Web application security fundamentals
+[IN PROGRESS] SOC monitoring & SIEM alert triage
+[QUEUED]      Deeper offensive tooling (Nmap, Scapy, Snort)
+[QUEUED]      Cloud security fundamentals
+[ONGOING]     Documenting every lab publicly on GitHub
+```
+
+<br>
+
+<div align="center">
+
+## `[ uptime --github ]`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tharindi-Weerasinghe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c8ffb0&icon_color=39ff14" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tharindi-Weerasinghe&theme=github-dark-blue&hide_border=true&background=000000&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharindi-Weerasinghe&theme=react-dark&bg_color=000000&color=39ff14&line=39ff14&point=c8ffb0&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br>
+
+```bash
+┌──(tharindi@sliit)-[~]
+└─$ cat contact.txt
+```
 
 <div align="center">
 
 <a href="https://tharindi-weerasinghe.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39ff14" />
 </a>
-
 <a href="https://github.com/Tharindi-Weerasinghe">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14" />
 </a>
-
 <a href="https://www.linkedin.com/in/tharindi-weerasinghe-0b543a2b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14" />
 </a>
-
 <a href="mailto:tharindimaleesha0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39ff14" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=100&section=footer" />
+<i>"Still early. Still building. Still logging every step."</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b0d,100:000000&height=90&section=footer"/>
